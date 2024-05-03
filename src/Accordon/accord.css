@@ -1,0 +1,33 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .accordion {
+    width: 300px;
+  }
+  
+  .item {
+    cursor: pointer;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+  }
+  
+  .title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f0f0f0;
+  }
+  
+  .content {
+    padding: 10px;
+  }
+  
+  .selected {
+    background-color: #e0e0e0;
+  }
+  

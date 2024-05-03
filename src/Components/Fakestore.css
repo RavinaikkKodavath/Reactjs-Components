@@ -1,0 +1,13 @@
+.card-header{
+    height: 100px;
+}
+main{
+    height: 800px;
+    overflow: auto;
+}
+.card:nth-child(odd){
+    background-color:grey;
+}
+.card:nth-child(even){
+    background-color:palegoldenrod;
+}

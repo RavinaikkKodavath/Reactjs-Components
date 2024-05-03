@@ -1,0 +1,21 @@
+marquee{
+    padding: 50px;
+}
+img:hover{
+    transform: scale(1.5);
+    box-shadow:10px 4px 3px black;
+    transition: 2s;
+}
+mg{
+    transition: 2s;
+}
+/* img:hover{
+    cursor: grab;
+}
+.preview-image:hover{
+    transform: scale(1.5);
+    transition: 2s;
+}
+.preview-image{
+    transition: 2s;
+} */
